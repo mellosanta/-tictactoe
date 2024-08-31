@@ -1,0 +1,4 @@
+C:\Users\romme\source\repos\TICTAC\TICTAC\x64\Debug\TICTAC.vcxproj.AssemblyReference.cache
+C:\Users\romme\source\repos\TICTAC\TICTAC\x64\Debug\TICTAC.MainForm.resources
+C:\Users\romme\source\repos\TICTAC\TICTAC\x64\Debug\TICTAC.vcxproj.GenerateResource.cache
+C:\Users\romme\source\repos\TICTAC\TICTAC\x64\Debug\TICTAC.Second.resources
