@@ -1,0 +1,4 @@
+C:\Users\romme\source\repos\TTT\TTT\x64\Debug\TTT.vcxproj.AssemblyReference.cache
+C:\Users\romme\source\repos\TTT\TTT\x64\Debug\TTT.MyForm.resources
+C:\Users\romme\source\repos\TTT\TTT\x64\Debug\TTT.vcxproj.GenerateResource.cache
+C:\Users\romme\source\repos\TTT\TTT\x64\Debug\TTT.MyForm1.resources
